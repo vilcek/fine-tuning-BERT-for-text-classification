@@ -1,4 +1,4 @@
-#### This is the repository that supplements the blogs posts published [here]().
+#### This is the repository that supplements the blogs posts published [here](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/deep-learning-with-bert-on-azure-ml-for-text-classification/ba-p/1149262).
 
 The code is organized in the following notebooks:
 - 01-data-preparation: prepares and sample the data for fine-tuning the BERT-based model.
